@@ -1,4 +1,4 @@
-# Assaignment1-ICIT-
+# Assignment1-ICIT-
 
 PAST PRESENT AND FUTURE OF COMPUTERS
 
